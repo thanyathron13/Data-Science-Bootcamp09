@@ -10,4 +10,7 @@ I learn a lot of stuff related to data science skills. This bootcamp contain 10 
  - Data transformation
  - Data Visualization
  - Essential Statistics for Data Analyst
- - 
+ - Python
+
+
+You can find me on Linkin: 
